@@ -1,26 +1,6 @@
-<<<<<<< HEAD
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 17 18:42:12 2022
-
-@author: prumo
-"""
 -r requirements.txt
 pytest==7.1.2
 httpie==3.2.1
 isort==5.10.1
 flake8==4.0.1
-=======
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 17 18:42:12 2022
-
-@author: prumo
-"""
--r requirements.txt
-pytest==7.1.2
-httpie==3.2.1
-isort==5.10.1
-flake8==4.0.1
->>>>>>> 9eade0cc3adcbe53f013dc223292e6100cb81cc3
 black==22.3.0
